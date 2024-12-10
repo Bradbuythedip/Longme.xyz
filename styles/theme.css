@@ -1,0 +1,18 @@
+/* LongMe.xyz - Enhanced Trading Platform Theme */
+:root {
+  --primary: #3366FF;
+  --primary-dark: #2952CC;
+  --secondary: #FF3366;
+  --background: #0A0B0D;
+  --background-secondary: #16171B;
+  --background-tertiary: #1E1F23;
+  --text-primary: #FFFFFF;
+  --text-secondary: #9CA3AF;
+  --success: #10B981;
+  --error: #EF4444;
+  --warning: #F59E0B;
+  --gradient-start: #3366FF;
+  --gradient-end: #FF3366;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
